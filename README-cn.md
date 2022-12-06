@@ -21,7 +21,7 @@ GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具�
 
 ```javascript
 const a = 1;
-const b = 2;
+const b2 = 2;
 ```
 
 ### 通过 GoGoCode 来编写转换代码
